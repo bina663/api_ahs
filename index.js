@@ -8,7 +8,7 @@ const port = process.env.PORT || 8080;
 // mongoose.connect('mongodb+srv://root123:root123@cluster0.jkoel2y.mongodb.net/asylum?retryWrites=true&w=majority').
 //     then(console.log("Connect ok")).catch(e => console.log("err:" +  e.message));
 
-app.get("/caracters-asylum", (req, res) => {
+app.get("/caractersAsylum", (req, res) => {
     res.send(caracters)
 });
 
