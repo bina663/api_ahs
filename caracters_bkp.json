@@ -1,0 +1,117 @@
+[   
+    {
+        "name":"Dr. Oliver Thredson", 
+        "intérprete": "Zachary Quinto",
+        "image": "https://pm1.narvii.com/6728/2a53f5e4cf4cab121ac7697c6ce032d1e68bb691v2_hq.jpg"
+    },
+    {
+        "name":"Monsignor Timothy Howard", 
+        "intérprete": "Joseph Fiennes",
+        "image": "https://i.pinimg.com/originals/7e/4b/41/7e4b41f3c600082bcd146e3763c28f82.jpg"
+    },
+    {
+        "name":"Lana Winters", 
+        "intérprete": "Sarah Paulson",
+        "image": "https://static.wikia.nocookie.net/american-horror-story/images/5/53/Lana.jpg/revision/latest/scale-to-width-down/1200?cb=20121212221447"
+    },
+    {
+        "name":"Kit Walker", 
+        "intérprete": "Evan Peters",
+        "image": "https://static1.purebreak.com.br/articles/9/13/76/9/@/67369-em-american-horror-story-asylum-700x700-2.jpg"
+    },
+    {
+        "name":"Sister Mary Eunice McKee", 
+        "intérprete": "Lily Rabe",
+        "image": "https://series.band.uol.com.br/wp-content/uploads/2017/03/Lily-Rabe-interpreta-Irm%C3%A3-Mary-Eunice.jpg"
+    },
+    {
+        "name":"Grace Bertrand", 
+        "intérprete": "Lizzie Brocheré",
+        "image": "data:image/jpeg;base64,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"
+    },
+    {
+        "name":"Dr. Arthur Arden", 
+        "intérprete": "James Cromwell",
+        "image": "data:image/jpeg;base64,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"
+    },
+    {
+        "name":"Sister Judy Martin", 
+        "intérprete": "Jessica Lange",
+        "image": "Sister Judy Martin"
+    },
+    {
+        "name": "Teresa Morrison", 
+        "intérprete": "Jenna Dewan-Tatum",
+        "image": "https://static.wikia.nocookie.net/american-horror-story/images/d/d7/Morrison_theresa_2585.jpg/revision/latest?cb=20190107192455&path-prefix=pt-br"
+    },
+    {
+        "name": "Mother Superior Claudia", 
+        "intérprete": "Barbara Tarbuck",
+        "image": "https://static.wikia.nocookie.net/americanhorrorstory/images/f/ff/Madre.jpg/revision/latest?cb=20130125161522"
+    },
+    {
+        "name": "Shelley", 
+        "intérprete": "Chloë Sevigny",
+        "image": "https://static.wikia.nocookie.net/americanhorrorstory/images/b/b0/Shelley11.jpg/revision/latest/top-crop/width/360/height/360?cb=20171031010901"
+    },
+    {
+        "name": "Frank McCann", 
+        "intérprete": "Fredric Lehne",
+        "image": "https://static.wikia.nocookie.net/americanhorrorstory/images/4/49/Frank-Infobox.png/revision/latest?cb=20191223204246"
+    },
+    {
+        "name": "Alma Walker", 
+        "intérprete": "Britne Oldford",
+        "image": "https://static.wikia.nocookie.net/americanhorrorstory/images/c/cc/Alma2x12.jpg/revision/latest?cb=20191227205644"
+    },
+    {
+        "name": "Shachath", 
+        "intérprete": "Frances Conroy",
+        "image": "https://static.wikia.nocookie.net/americanhorrorstory/images/6/64/AngelofDeath.png/revision/latest?cb=20190717094644"
+    },
+    {
+        "name": "Johnny Morgan", 
+        "intérprete": "Dylan McDermott",
+        "image": "Johnny Morgan"
+    },
+    {
+        "name": "Wendy Peyser", 
+        "intérprete": "Clea DuVall",
+        "image": "Wendy Peyser"
+    },
+    {
+        "name": "Pepper", 
+        "intérprete": "Naomi Grossman",
+        "image": "Pepper"
+    },
+    {
+        "name": "Leo Morrison", 
+        "intérprete": "Adam Levine",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQEA8QEA8QEBAPEA8QDxAPDw8ODw8PFREWFhURFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OFxAQFS0dHR0tKy0tLS0tLS0tKy0tLS0tLS0rLSstNisrLSsrLS0tLS0tKy0tKystLS0tLS0rLS03Lf/AABEIAQMAwgMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAADAAECBAUGB//EADUQAAICAQIFAgQDCAIDAAAAAAABAgMRBCEFEjFBUQZxEyJhgZGh8BQjMkJSscHRM6IHcuH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIDBP/EACMRAQEBAQABAwUBAQEAAAAAAAABEQIxAxIhEzJBUWGB0SL/2gAMAwEAAhEDEQA/APLlEmojxiESMW+IqJNRJJEkhGZRHUSaRJREaCiS5SaiSUQNBQH5A0YCwB4FyEXAOkNyi0AOJFxLLgQ5QLFZwByiWpQIOIxipKIKUS7OruAlEcpYpziBlEuTiBnEpNiq4g2izKIJoaQWiDQdog0MgcCCYEMm+kTSHUSaRk2MkTSEkTSECUSSiOkTSAzKJNREiUdxGeI7ghYHwLTRyRwTcR3HYAg+gJoM0QcBhCSBuIZoJRFN7itEitKGxVnE1tTRvt0KeoocfuEo65Z8ogZxLkogZRKQpyiClEuTiClErU2KriQaLLiQcCtTgHKMF5BBob6iSUSSQ6Rm1wyRNISRNIDJIdIdIdIQMSiJINXU2Iz06dyeFuaVPCpPsanBtEoxy1uzWhUJrzw5qXB2MuFnTz07K8qsBq/pxzd/DWihbQ12OruqKN9Cx0HqeuHMuBHmwa9umWHsZt1WAZ4B8Z5LlcHfFrbmis+6KU4htBe65c2M+V5RNgl/alZDGUAlE0Nao8zcc4lvv2+hUlEuVFipKIKUS3KIKURpVnEg4lhxI8o9LAOQQflEPRjXwPgcfBKySJJCQ6AEkSSGJpCNOqPc1OHUZabM+o6HgtOWgVzG7p9P8q2LMKsFmivZBJVkt9A5F+sla6tfpMt2L9blW39dQpxRugv0mZ9seppWe5VlX1JFZFsUzOtqNXUQM+T3aHGfTNuhgA4GnGnnsjFd2afGOAOuWEnjCf2Fe5LhTi2a56+p8kW102z3KUjf41iFddeN2sswZIri7EdzKFJApIPIG0WzBcSPKGcRcoDAeUQflEBL6Q6EOgUSHwJEkhGdIlFCSJxQjEqR1/pelYcvBydKOx9L/wAEvdCXz5dHTEPyJmXfr1XslzPvjt7lWfG5ZylhfhketHQfsqZR1OlwZi9StdUtvAWvj1dj32HsKWhzo39ytZVszVeGlJdijq5JJ/cixesTUwMnVQNHW6yMenVox56rLGz6sW+BVc2or90eqcZ4VB6d2/zVxSf1R5f6ftcb658smlJN4Te31PX+M2xlopuLypKK+u7X5nN6s2/4PdZ7c/NeReraVyxl4eF7YOTkjsPWM8fDh7tnJSRv6P2l633AMbAVoblNWIfKJRCcpJREYfKINyiEMFHQxIojokkMiSEaSQfT1c0oxX8zSBJGhwaObq8+f8MSpFrWcM+HiUcuPdvyb3paPyy90XOJUZ01m3SK3+43pqnFWfLZLbMrT/Y4/wAWN+5narLUlCtSkot42wv9v6I6SmCaG/Yk90lleUXJqbXn7hOU3HKcc4T5Uk15waWg4bGzrBPDw5R2x7m3qeFbvos91gJw+n4eUt898C9vyqeDabRckWs52OO9Ratxk0jvLbMJ+x5t6n3tyKlfDHnY2Eqtaz0wu6SaYAt0Sjy7R379AZxv8DvhzVuxRcJSa+TaUWsdV9T0zjEEtIlHo5w++54o75dFtvt5W7f4nqXp2yV/CWpNuVTk8t7vlfMc/qc/lpbvt/lcJ6800I3VyhJtTrTlntJPDwcnOJ1XrL/krXipfbLZzM4mvpfZC9WZ3QOUSiEwJRNWWIco6iEUR+URo8owTlHEAySGQ6LSkiaIxCJCppJBqZNNNbNPKBILAk3faTVK6quL6WQkpY87huCVuClW+sJtf/TH9IamLzTP6yh5+qTNrSyxfYvMgrbdb9Edg6k12K9Mg/VFRNitasv9eSPJgJNY6kVcuX2/uBq90Mp+x516px8RLusne62x4bXg4jjulc5p95PH3JqrP/LnAtMiE4tNprDTw14Y0dhMlyEd8nqHovEOHXt/w4sf/Xc8toTk4xisttJL6s9m9OcP+FooVOW8nHmeMp7qTX17oz9T/p9XJ/seWesG5Xwb70VNe2Gc/JGz6k1PxdVdJfw88owS6KEXiKX2RkSRfEzmQd3erQXEZIK0NgtBkh+UkkSSJNHlGCYHEFQdDDo1QnEJEhEIiVJINAEgsBBa01soSUovEovKa7HS8I1krJOc8Z7tLG+25y8Da4K/4l06fhkS+XeUT2RZjMyNBekuX2Wf84L/AMbHcqVQevtfRdxKHJXlpyfXCxkFPUxy31cXh7dAWq1WVnt9OuB4epXXN1tOPL74z+KMG2unmVl9irqrlH/3slnPLFEOKa+UXKKecvHL0/TOd4rRN/NJtvtnsvoT18jcifqqyieqss08lKux8+ycVFvrHcyvhMF0ZbqnzYXsT4iI6H0Zwn4tvO0+WDXTz+kd96y1stPom65KEmnFNdUpbbfXDMr0zT8KqOyTm0+m/Kkv9kf/ACTq09PXHvKSW/03MPdvR9y+6fx5lMEwrINHSihtCwSFgAZImkMiaQjNgRPAwgoIdDDo1ZiRCIHEnEkxEFgBQWIjWIGjwy7lkvrsZsGWK2SqOw0lvzLdb/n9X+JZ1k+vK+n/AG6/6Of02pxtJ45cNJfzJo0JanbCjl4jjr/b7DWdalpyytpbZztnv+Zessq5UnJb77NbE+D1R3ljmxtv2fcPqNLU85iunguQ5jA1umpnJS5sNZfXOX5M7i9sHFYk20sNvoy9rdFTzbNbGLxLTVpNpP6bhV9SYx7I5fkuaCMeZJp9VldG9+ifYowbi8rqX9BPmsj75M+vDLny9F0NebIpc2YwWPEX4/uYX/kPVpyqqX8kW3h7Zf8Afua8dbyZm08KGO/hbvz06HBcU1bttnNvOZPGfBh6U2609RTZBk2wbZ0sDCFkWQB0SRBMkmSaeREciAKBJEUSRqzTiTTIRJoRpphYMEgsSTGgw8WAgw8GSqNuWnbhFpPm5Vh52e3QDXN5Sbx05s9muxqUQaivHLHPbt1Kmu0ieJRaez3/AKvoUqr/AAzUqDazst21t17v8ixrruZZj38dkjC0uoxzJpOTwmnl4Rd/aMuUJPaK5o9MKP4frJQlYuqT5m/m3/ABqLG1h+C/qJLm2ziT7+xl6x8uUIVQteGanA62pxljfKx/jJn6XTuyaWM5aR0mlrrpSjj9490ubvnD/LmMu7+D4nzrV1+mb0Wosf8AEnD33nv/AHOH5T1jSaB3aG6vC5rYfL9Wt1/Y8s1FEoScJRcZR2aawyPRvkd/Nv8AFeRBk5MG2bszMYTY2QJJEkQTHyKmmOQyIQ1TRJEETRqzTROINE4iMVBIkaK3JqMVlt4R0NHpS9tKWIqW6fUSmNAs6atykoruzo7fTVdHLzOU5Pt0Ra03DoQ+ZRSbJsq+ZvyLGr5UtsJJPP8AYr2VKTzjZeVsaEF5GcPp9+45FsrU8N5vmg1GSXspfcx7o219Y57PDzk6p19Hj8MrJVu0/Xt4xsNNjlbtTv3/AAKljcm/89DptRoFjO32MbVaf7YCllBo1MKl8icpOOH/ACpPGMBdLfmzmm8tvLZTVDHgsSXuiLyqWvYPS16dcfotl4B8e4Zp7m1ZBZfSS2f4mN6d1/JFZZW9VcWezizjy7jT6V+pevwz+KeimsypnzL+l9TCu9MauKz8PPnD3NnQepZ7Js1Hxlzy4vpHp2ybc9dz4O+nzXErgOpcZS+G8RzlZ32Ms9I4VxFxk5S+ZSTUk/r3J+ouEUWaKdlNS+LlcuFv1WfyL99l+WXXp/p5pkfIrqpQeJRcX9Vghk0ZiZEQyICV0yaBpk0zRCaYSCz0FRS5PY6HhnDEsN9RKk1s+iOGLllZNLOcLPY7FQy19DO4RBRqXuadfU25nwjryocU3sx4iipJk+L241CXmH+QHMZdea34+2CIfPYihpMS0pg5NeEM5MrztFoxG+SwzG1KT7GlOzJRuEahOvYzrZYZp39DMshkE1s6fX4ilkq67VOzYrUxf4B1UZTiStfdbA6I4Nrha+SbMd7G1w3/AIc/1NmmI1KDwseTYq4xGiEIy3UpPJkJbor8Vpc3X9CfU42Dm/Lqb+GaTWweyz9snFca9IW05lD5o+O+C/o7Z1dJfma1HqH+WzdeTCe7nwu8y+XnD081/JL8GI9S59K9/l33EV9W/pH0p+3kVUGzSo0W2WRqgkXUng7McsG0sIxNahvsY8Go/Uuae57JZ6rcWNJ07rSLEIIvRfQoaeXyw9i7F9DaMa571U3G6ua7R3K9OsT3yaXqJLMc9GsGDHRtbxeV4wZdeW/p+GtHVJ9wjmZFf6TCxtkiNa4vSKOqngPHUFbWtNbCpq9bbyKVeRqpFmDQQM3VV9gS02DSujvkrTArFeFKDKKGkDcthXnTlwLVwik2a0Pkpqj9EYMk52Qgu739jX1UszUe0Fgvnll338rOn3kitxaxqaRY0svnRS4s/wB6XZ8Jl+VKy+Xkq2XPyFvKk2Z4u9H+LLy/xED5kIWJ0NewWmT33yiMQkVjp1/JmrGDwSLmjg+aPhtFWlZ/0aHDl+8jjyCo7KrpH2LcZFGEugZTNEK3qOLcIyW+GYVOpw8Z38HSatc9cl9Dk7a3lYfQjpfNW7f6s7oJGSaKkLWSrsa69Pp0M625osmC5yUmuwGbJaaaROuZXlYEhIZauN5RUuHlYAtsAWoSkVrrMEbr8bLqT01Dm15bGi1a4Lpcc1suywgy7yfV7lq9KMY1r3kVps1kY2pUyxJFTik/3iCxluZvF7fmTC+BKVrKVzCStyU9VbhMjFWq0tTuxik7BDxn7mpXNruFqmUoSwwtcsDJrUz2W+5s8JinNPuc9XLKRv8ACJdxKjo4zCqwz1YTjaaJaFdn5nPcWp5Jt9n08Gp8Qjqq1bBxfXsKzTnw5743boy1VJPYztXF1y5ZR9mGot6GdjSUe2Tj0zgZ25JzexRvqxvF7+Miabg0mTjYUPjNbSwGVyx1FgnQtljKeq1WBrL+baKBwpy+nNL8RpvX6Br1EW8tPPjB0ehgq4c8l8zWy8ANJo41rnsScuy8ErLW3l/ZeC5Gdqbn1b6sr2WCnYVbLC06JKwzeN2bJh52lDisswFS1Tjqs7FfW2vGxUpt3ZDVXbEi34D+MxFX4z8DgnXRrDGk2irVcFlZsJS9TblG9wez5TlKb98HQ6GeIocGt+NxONpl13BY3FBpfFJxtM6NxL4wzXtRXC1Ykvv3M2egcHt8y+nUPXNk3qMCs05VGbx5+4JyNP46fVJkHyf0oj2q97JmkwVeknJ9G17Gx8SK6RQ0tQ/OPYftF6VquHY/iaivC6liMowWIJZ/qYGVv39wNlpUmJtGnZnd7sDKwBO0DO0aRp2Fa20HO0rWWgSc7SrqrMxaBW2led4Ey5yxJg7LSOsniRTnaThaL8URV+IIaW9WywmMIhpEtPu17nRUPZCEVAtQYVMQhhJSYatiEM0nJkciEIxEyLkxxAAmyEmIQEHKQCcmIQwDJgJsQgKq9kmV7JMQgJTsZUsYhAVZ2tZQkxCBIeRxCKQ//9k="
+    },
+    {
+        "name": "Leigh Emerson", 
+        "intérprete": "Ian McShane",
+        "image": "https://static.wikia.nocookie.net/american-horror-story/images/d/d9/Leigh.jpg/revision/latest?cb=20130303182114&path-prefix=pt-br"
+    },
+    {
+        "name": "Carl", 
+        "intérprete": "Mark Engelhardt",
+        "image": "https://static.wikia.nocookie.net/americanhorrorstory/images/d/df/Carl-Infobox.png/revision/latest?cb=20191223204332"
+    },
+    {
+        "name": "Spivey", 
+        "intérprete": "Mark Consuelos",
+        "image": "https://static.wikia.nocookie.net/americanhorrorstory/images/0/04/Spivey-Infobox.png/revision/latest?cb=20191223191932"
+    },
+    {
+        "name": "Sam Goodman", 
+        "intérprete": "Mark Margolis",
+        "image": "Sam Goodman"
+    },
+    {
+        "name": "Anne Frank / Charlotte Brown", 
+        "intérprete": "Franka Potente",
+        "image": "https://static.wikia.nocookie.net/americanhorrorstory/images/0/00/S02E04_Charlotte_Brown.jpg/revision/latest?cb=20121106054924"
+    }
+]
