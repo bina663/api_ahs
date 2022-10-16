@@ -1,1 +1,5 @@
-"# api_ahs"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/sabrina663/api_ahs.gitgit push -u origin main
+Api da serie American horror story, especificamente da temporada Asylum
+Os dados estão porém guardados no banco MongoDB, porém pelo fato da plataforma
+não conseguir conectar, usei um arquivo json, mas em breve isso sera solucionado
+Feito pra fins de estudo
+https://api-ahs-asylum.onrender.com
