@@ -1,5 +1,5 @@
-Api da serie American horror story, especificamente da temporada Asylum
-Os dados estão porém guardados no banco MongoDB, porém pelo fato da plataforma
+<h2>Api da serie American horror story, especificamente da temporada Asylum</h2>
+<p>Os dados estão porém guardados no banco MongoDB, porém pelo fato da plataforma
 não conseguir conectar, usei um arquivo json, mas em breve isso sera solucionado
-Feito pra fins de estudo
-https://api-ahs-asylum.onrender.com
+Feito pra fins de estudo</p>
+<p>https://api-ahs-asylum.onrender.com/caractersasylum</p>
