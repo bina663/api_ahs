@@ -40,7 +40,7 @@ Como solução alternativa, utilizei um arquivo `.json` para armazenar os dados,
 
 Você pode acessar os dados diretamente pelo link abaixo:
 
-👉 [https://api-ahs-asylum.onrender.com/caractersasylum](https://api-ahs-asylum.onrender.com/caractersasylum)
+👉 [https://api-ahs-asylum.onrender.com/caractersasylum](https://api-ahs-asylum.onrender.com/caractersasylum](https://api-ahs.vercel.app/)
 
 ---
 
